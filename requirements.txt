@@ -9,3 +9,4 @@ numpy
 pandas
 scipy              # via seaborn
 seaborn
+sklearn
